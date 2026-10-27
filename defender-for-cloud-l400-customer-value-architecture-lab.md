@@ -421,12 +421,10 @@ Use this worksheet to separate portal evidence from assumptions and recommendati
 
 #### Attack story
 
-1. _Record attack-story stage 1._
-2. _Record attack-story stage 2._
-3. _Record attack-story stage 3._
-4. _Record attack-story stage 4._
-5. _Record attack-story stage 5._
-6. _Record attack-story stage 6._
+1. &nbsp;
+2. &nbsp;
+3. &nbsp;
+4. &nbsp;
 
 #### Business impact
 

@@ -26,9 +26,9 @@ Share this repository URL and the direct link to the lab instructions. This repo
 
 ## Source and conversion
 
-Converted from the author's supplied Word document, "Defender for Cloud L400 Customer Value Architecture Lab." The conversion preserves the lab content and worksheet tables, adds Markdown headings, and replaces the original tenant ID with `YOUR-TENANT-ID`.
+Converted from the author's supplied Word document, "Defender for Cloud L400 Customer Value Architecture Lab." On October 27, 2026, the instructions were compared with the newly supplied "Defender for Cloud L400 Customer Value Architecture Lab (1).docx." The conversion preserves the lab content and worksheet tables, uses Markdown headings, omits decorative Word highlighting, and replaces the original tenant ID with `YOUR-TENANT-ID`.
 
-The attack-story worksheet includes six response slots to match the six stages requested in Part 1. The source document provided only four.
+The attack-story worksheet preserves the source document's four blank response slots. Part 1 asks learners to record six attack-story stages. This inconsistency is retained to match the supplied document rather than change its instructions.
 
 The four documentation reference URLs returned HTTP 200 on October 27, 2026. Conversion and link checks do not constitute live-tenant validation.
 
